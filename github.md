@@ -13,6 +13,7 @@ git clone git@github.com:coffeekhoo/hello-world.git
 
 4、提交文件
 ```
+cd hello-world
 git add .
 git commit -m "修改容"
 git push origin main
